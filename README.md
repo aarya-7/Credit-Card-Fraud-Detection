@@ -10,6 +10,8 @@ Matplotlib
 Plotly
 Scikit-Learn
 
+**Dataset:** https://www.kaggle.com/datasets/dcypher01/creditcard
+
 **Features:**
 Comprehensive Data Analysis: Utilized a detailed exploratory analysis to understand data characteristics.
 Advanced Modeling Techniques: Implements several machine learning models including RandomForest, XGBoost and AdaBoost to classify transactions.
